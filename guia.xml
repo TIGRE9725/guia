@@ -1,0 +1,4851 @@
+<?xml version="1.0" ?>
+<tv>
+  <channel id="IZZI-120886">
+    
+    
+    <display-name>MTY-IMAGEN-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/497/7302497-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-26130">
+    
+    
+    <display-name>CANAL-4-TELEVISA-MTY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/381/9334381-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-91505">
+    
+    
+    <display-name>MTY-CANAL-6-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/157/16975157-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-91703">
+    
+    
+    <display-name>CANAL-8-TELEVISA-MTY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/382/9334382-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-97020">
+    
+    
+    <display-name>MTY-NUEVE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/877/8275877-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-156939">
+    
+    
+    <display-name>MTY-ONCE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/149/15599149-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-156924">
+    
+    
+    <display-name>MTY-CANAL-CATORCE-HD</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-156925">
+    
+    
+    <display-name>MTY-TV-UNAM-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/491/7022491-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-156927">
+    
+    
+    <display-name>MTY-CANAL-22-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/799/256799-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-47671">
+    
+    
+    <display-name>MTY-CANAL-28-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/380/9334380-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-99801">
+    
+    
+    <display-name>MTY-CANAL-6-DELAY-2HRS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/866/12250866-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-124327">
+    
+    
+    <display-name>MTY-CANAL-SEIS-TRES-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/868/12250868-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-900954">
+    
+    
+    <display-name>MTY-D99-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/918/12018918-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-54217">
+    
+    
+    <display-name>MTY-CANAL-6-DELAY-1HR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/867/12250867-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-33646">
+    
+    
+    <display-name>LAS-ESTRELLAS-2HRS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/251/9281251-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-70110">
+    
+    
+    <display-name>LAS-ESTRELLAS-2HRS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/250/9281250-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-36266">
+    
+    
+    <display-name>LAS-ESTRELLAS-1HRS-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/249/9281249-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-104769">
+    
+    
+    <display-name>AZTECA-1-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/724/16975724-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-52628">
+    
+    
+    <display-name>AZTECA-1-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/725/16975725-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16461">
+    
+    
+    <display-name>CANAL-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/247/9281247-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-45831">
+    
+    
+    <display-name>CANAL-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/248/9281248-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16462">
+    
+    
+    <display-name>FORO-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/804/16905804-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-70765">
+    
+    
+    <display-name>FORO-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/805/16905805-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16463">
+    
+    
+    <display-name>CANAL-5-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/276/17592276-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-52762">
+    
+    
+    <display-name>CANAL-5-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/275/17592275-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-104795">
+    
+    
+    <display-name>AZTECA-7-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/878/7809878-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-56276">
+    
+    
+    <display-name>AZTECA-7-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/269/6723269-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16466">
+    
+    
+    <display-name>CANAL-9-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/876/8275876-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-59528">
+    
+    
+    <display-name>CANAL-9-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/230/8274230-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-99620">
+    
+    
+    <display-name>CANAL-6-PLUS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/540/9391540-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-99621">
+    
+    
+    <display-name>CANAL-6-PLUS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/541/9391541-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-61719">
+    
+    
+    <display-name>MILENIO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/120/9250120-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-99566">
+    
+    
+    <display-name>MILENIO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/121/9250121-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-111249">
+    
+    
+    <display-name>HERALDO-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/925/11674925-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-20548">
+    
+    
+    <display-name>CONGRESO-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/267/18459267-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-50577">
+    
+    
+    <display-name>JUSTICIA-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/802/19279802-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-160762">
+    
+    
+    <display-name>SKY-ONE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/676/16482676-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-68049">
+    
+    
+    <display-name>UNIVISION-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/800/8680800-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-33629">
+    
+    
+    <display-name>QUIERO-TV-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/936/8466936-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-34422">
+    
+    
+    <display-name>CBS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/792/8680792-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122094">
+    
+    
+    <display-name>TELEFORMULA-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/353/16652353-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-124842">
+    
+    
+    <display-name>CNBC-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/159/16975159-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-49062">
+    
+    
+    <display-name>NBC-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/796/8680796-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-35078">
+    
+    
+    <display-name>ABC-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/793/8680793-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-38683">
+    
+    
+    <display-name>TUDN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/577/8706577-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-65129">
+    
+    
+    <display-name>TUDN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/579/8706579-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-41677">
+    
+    
+    <display-name>FOX-SPORTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/109/17224109-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-61704">
+    
+    
+    <display-name>FOX-SPORTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/114/17224114-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-66365">
+    
+    
+    <display-name>FOX-SPORTS-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/110/17224110-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-71328">
+    
+    
+    <display-name>FOX-SPORTS-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/113/17224113-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-105006">
+    
+    
+    <display-name>FOX-SPORTS-3-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/117/17224117-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-105005">
+    
+    
+    <display-name>FOX-SPORTS-3-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/118/17224118-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123582">
+    
+    
+    <display-name>FOX-SPORTS-PREMIUM-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/121/17224121-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-19158">
+    
+    
+    <display-name>ESPN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/797/9703797-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-110964">
+    
+    
+    <display-name>ESPN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/799/9703799-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-37747">
+    
+    
+    <display-name>ESPN-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/798/9703798-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-96876">
+    
+    
+    <display-name>ESPN-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/800/9703800-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-79042">
+    
+    
+    <display-name>ESPN-3-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/921/256921-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-79049">
+    
+    
+    <display-name>ESPN-3-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/250/6723250-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-65930">
+    
+    
+    <display-name>ESPN-4-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/895/15603895-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-72625">
+    
+    
+    <display-name>PX-SPORTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/133/16975133-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-84072">
+    
+    
+    <display-name>PX-SPORTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/540/16980540-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-109784">
+    
+    
+    <display-name>REAL-MADRID-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/770/8574770-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-109786">
+    
+    
+    <display-name>REAL-MADRID-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/771/8574771-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-34710">
+    
+    
+    <display-name>NFL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/774/13774774-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-83162">
+    
+    
+    <display-name>ADRENALINA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/382/8462382-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-88828">
+    
+    
+    <display-name>NBA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/414/14859414-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-45399">
+    
+    
+    <display-name>NFL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/773/13774773-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-61033">
+    
+    
+    <display-name>GOLF-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/495/9225495-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-150272">
+    
+    
+    <display-name>HI-SPORTS-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/859/16644859-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-105163">
+    
+    
+    <display-name>AYM-SPORTS-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/230/18459230-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-184494">
+    
+    
+    <display-name>BASKET-AMERICAS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/255/18459255-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-184495">
+    
+    
+    <display-name>BEISBOL-LATINO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/151/18190151-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-184496">
+    
+    
+    <display-name>COMBATV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/152/18190152-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-136770">
+    
+    
+    <display-name>ITV-DEPORTES-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/708/18043708-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-110459">
+    
+    
+    <display-name>LATIN-AMERICAN-SPORTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/276/18459276-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-184497">
+    
+    
+    <display-name>MEXICO-AL-AIRE-LIBRE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/164/18190164-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-160997">
+    
+    
+    <display-name>SKY-SPORTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/678/16482678-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-160998">
+    
+    
+    <display-name>SKY-SPORTS-16-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-160999">
+    
+    
+    <display-name>SKY-SPORTS-21-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-161000">
+    
+    
+    <display-name>SKY-SPORTS-24-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/685/16482685-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-56036">
+    
+    
+    <display-name>BABY-TV-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/883/256883-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-60295">
+    
+    
+    <display-name>NICK-JR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/181/16975181-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-45955">
+    
+    
+    <display-name>DISCOVERY-KIDS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/160/16975160-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-89909">
+    
+    
+    <display-name>DISCOVERY-KIDS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/161/16975161-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-601159">
+    
+    
+    <display-name>MTY-ONCE-NINAS-Y-NINOS-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/304/9134304-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16141">
+    
+    
+    <display-name>CARTOON-NETWORK-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/158/16975158-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-55719">
+    
+    
+    <display-name>CARTOONITO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/764/11516764-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16707">
+    
+    
+    <display-name>NICK-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/180/16975180-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-72801">
+    
+    
+    <display-name>BIT-ME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/155/16975155-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-111747">
+    
+    
+    <display-name>BIT-ME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/156/16975156-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-19234">
+    
+    
+    <display-name>DISNEY-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/890/256890-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-79589">
+    
+    
+    <display-name>DISNEY-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/083/257083-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123193">
+    
+    
+    <display-name>DREAM-WORKS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/904/12121904-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123872">
+    
+    
+    <display-name>DREAM-WORKS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/906/12121906-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-114439">
+    
+    
+    <display-name>DISNEY-JR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/028/16780028-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-63109">
+    
+    
+    <display-name>TOONCAST-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/894/256894-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123604">
+    
+    
+    <display-name>SKY-BABY-FIRST-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/670/16482670-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-184598">
+    
+    
+    <display-name>EDYE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/709/18043709-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123608">
+    
+    
+    <display-name>SONY-MOVIES-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/206/12076206-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123715">
+    
+    
+    <display-name>CURIOSITY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/154/13824154-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16794">
+    
+    
+    <display-name>CINEMAX-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/940/256940-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-140025">
+    
+    
+    <display-name>TNT-NOVELAS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/064/18682064-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16189">
+    
+    
+    <display-name>TELEFE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/070/7020070-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-50798">
+    
+    
+    <display-name>TV-GLOBO-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/069/7020069-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-91989">
+    
+    
+    <display-name>FOOD-NET-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/202/8653202-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-91919">
+    
+    
+    <display-name>FOOD-NET-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/203/8653203-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-84425">
+    
+    
+    <display-name>UNICABLE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/469/12154469-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-77617">
+    
+    
+    <display-name>FX-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/269/17592269-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-109896">
+    
+    
+    <display-name>DISCOVERY-ID-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/178/16975178-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-77534">
+    
+    
+    <display-name>UNIVERSAL-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/112/14674112-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-88534">
+    
+    
+    <display-name>STAR-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/611/9845611-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-59155">
+    
+    
+    <display-name>NHK-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/155/6975155-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-98111">
+    
+    
+    <display-name>WARNER-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/727/16975727-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-64230">
+    
+    
+    <display-name>DW-LATINO-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/154/6975154-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-88517">
+    
+    
+    <display-name>SONY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/176/14837176-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-66349">
+    
+    
+    <display-name>SPACE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/506/16975506-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-148507">
+    
+    
+    <display-name>ADULTSWIM-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/533/14949533-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-72534">
+    
+    
+    <display-name>AXN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/107/7671107-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-87004">
+    
+    
+    <display-name>AANDE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/971/8637971-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-97928">
+    
+    
+    <display-name>DISCOVERY-HOME-AND-HEALTH-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/008/12251008-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-107366">
+    
+    
+    <display-name>TNT-SERIES-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/065/18682065-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-106113">
+    
+    
+    <display-name>COMEDY-CENTRAL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/416/8526416-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-73070">
+    
+    
+    <display-name>TELEHIT-MUSICA-PLUS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/748/9410748-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-84432">
+    
+    
+    <display-name>MTV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/387/6973387-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-92054">
+    
+    
+    <display-name>HOLA-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/375/436375-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-65940">
+    
+    
+    <display-name>DISCOVERY-THEATER-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/085/257085-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122093">
+    
+    
+    <display-name>TELEMUNDO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/830/256830-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-88533">
+    
+    
+    <display-name>NAT-GEO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/138/7671138-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122092">
+    
+    
+    <display-name>DISTRITO-COMEDIA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/389/8395389-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-66488">
+    
+    
+    <display-name>DISCOVERY-WORLD-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/087/257087-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122096">
+    
+    
+    <display-name>TELEHIT-MUSICA-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/694/9410694-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-70669">
+    
+    
+    <display-name>HISTORY-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/739/11940739-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122095">
+    
+    
+    <display-name>BANDAMAX-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/759/9428759-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-96307">
+    
+    
+    <display-name>DISCOVERY-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/469/8861469-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-74016">
+    
+    
+    <display-name>DE-PELICULA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/102/257102-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-68317">
+    
+    
+    <display-name>GOLDEN-PLUS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/168/16975168-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80807">
+    
+    
+    <display-name>TNT-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/712/16975712-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-90852">
+    
+    
+    <display-name>AMC-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/143/16975143-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-90605">
+    
+    
+    <display-name>STUDIO-UNIVERSAL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/082/7020082-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123690">
+    
+    
+    <display-name>SONY-MOVIES-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/270/12118270-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80596">
+    
+    
+    <display-name>GOLDEN-PREMIER-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/282/17592282-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80660">
+    
+    
+    <display-name>GOLDEN-PREMIER--2HR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/015/9664015-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-84823">
+    
+    
+    <display-name>HBO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/151/6723151-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-68134">
+    
+    
+    <display-name>HBO-POP-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/176/16975176-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80652">
+    
+    
+    <display-name>HBO2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/172/16975172-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80112">
+    
+    
+    <display-name>HBO-PLUS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/174/16975174-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80120">
+    
+    
+    <display-name>HBO-SIGNATURE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/148/6723148-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80118">
+    
+    
+    <display-name>HBO-FAMILY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/799/9939799-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80211">
+    
+    
+    <display-name>HBO-XTREME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/742/9068742-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80560">
+    
+    
+    <display-name>HBO-MUNDI-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/737/9068737-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122760">
+    
+    
+    <display-name>UNIVERSAL-PREMIERE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/274/17592274-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122764">
+    
+    
+    <display-name>UNIVERSAL-CRIME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/719/16975719-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122762">
+    
+    
+    <display-name>UNIVERSAL-REALITY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/723/16975723-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122766">
+    
+    
+    <display-name>UNIVERSAL-CINEMA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/715/16975715-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122768">
+    
+    
+    <display-name>UNIVERSAL-COMEDY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/717/16975717-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-83166">
+    
+    
+    <display-name>ADRENALINA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/383/8462383-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-601125">
+    
+    
+    <display-name>MTY-TV-MIGRANTE-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/083/18459083-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-601108">
+    
+    
+    <display-name>MTY-MAUSSAN-TV-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/160/18459160-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-601242">
+    
+    
+    <display-name>STINGRAY-RETRO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/560/18998560-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-107611">
+    
+    
+    <display-name>DISCOVERY-TURBO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/274/18459274-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-110960">
+    
+    
+    <display-name>DISCOVERY-SCIENCE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/272/18459272-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-82353">
+    
+    
+    <display-name>EXCELSIOR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/073/9126073-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-111055">
+    
+    
+    <display-name>DISCOVERY-HOME-AND-GARDEN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/473/8610473-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-111077">
+    
+    
+    <display-name>DISCOVERY-HOME-AND-GARDEN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/472/8610472-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-87915">
+    
+    
+    <display-name>APRENDE-MAS-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/460/15657460-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-82446">
+    
+    
+    <display-name>DOGTV-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/439/14949439-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-15384">
+    
+    
+    <display-name>ADN-40-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/905/18814905-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-87311">
+    
+    
+    <display-name>EL-FINANCIERO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/305/8014305-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16521">
+    
+    
+    <display-name>UNICABLE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/468/12154468-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-37232">
+    
+    
+    <display-name>TLNOVELAS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/240/8526240-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-15688">
+    
+    
+    <display-name>STAR-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/609/9845609-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-28751">
+    
+    
+    <display-name>SKY-STINGRAY-JUICEBOX-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/673/16482673-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16213">
+    
+    
+    <display-name>WARNER-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/726/16975726-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-144887">
+    
+    
+    <display-name>SKY-STINGRAY-HITS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/674/16482674-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16799">
+    
+    
+    <display-name>UNIVERSAL-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/413/8526413-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-19385">
+    
+    
+    <display-name>SONY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/175/14837175-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-106112">
+    
+    
+    <display-name>COMEDY-CENTRAL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/415/8526415-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-46442">
+    
+    
+    <display-name>FX-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/268/17592268-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-17484">
+    
+    
+    <display-name>AXN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/106/7671106-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-60801">
+    
+    
+    <display-name>SPACE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/405/16975405-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-25793">
+    
+    
+    <display-name>DISCOVERY-ID-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/177/16975177-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-59582">
+    
+    
+    <display-name>DISCOVERY-HOME-AND-HEALTH-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/189/12251189-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-74420">
+    
+    
+    <display-name>TLC-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/844/256844-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-18955">
+    
+    
+    <display-name>AANDE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/845/256845-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-82970">
+    
+    
+    <display-name>HOLA-TV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/374/436374-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16217">
+    
+    
+    <display-name>TVE-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/141/6723141-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-15211">
+    
+    
+    <display-name>TELEHIT-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/760/9428760-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-12712">
+    
+    
+    <display-name>MTV-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/853/256853-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-90682">
+    
+    
+    <display-name>LIFETIME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/854/9304854-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-601209">
+    
+    
+    <display-name>AMC-SERIES-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/678/18802678-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-32749">
+    
+    
+    <display-name>TELERITMO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/215/12250215-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-148547">
+    
+    
+    <display-name>USA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/854/14820854-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-148503">
+    
+    
+    <display-name>ADULTSWIM-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/532/14949532-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-107374">
+    
+    
+    <display-name>ANIMAL-PLANET-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/594/8502594-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-102008">
+    
+    
+    <display-name>MX-NUESTRO-CINE-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/348/13286348-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-25788">
+    
+    
+    <display-name>DISCOVERY-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/470/8861470-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-96445">
+    
+    
+    <display-name>ANIMAL-PLANET-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/593/8502593-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-25068">
+    
+    
+    <display-name>NAT-GEO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/137/7671137-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-40137">
+    
+    
+    <display-name>HISTORY-CHANNEL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/738/11940738-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-89610">
+    
+    
+    <display-name>HISTORY-2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/742/11940742-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-46610">
+    
+    
+    <display-name>DISCOVERY-SCIENCE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/271/18459271-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-46608">
+    
+    
+    <display-name>DISCOVERY-TURBO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/273/18459273-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122763">
+    
+    
+    <display-name>UNIVERSAL-REALITY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/722/16975722-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122765">
+    
+    
+    <display-name>UNIVERSAL-CRIME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/718/16975718-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122769">
+    
+    
+    <display-name>UNIVERSAL-COMEDY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/716/16975716-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122767">
+    
+    
+    <display-name>UNIVERSAL-CINEMA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/714/16975714-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-122761">
+    
+    
+    <display-name>UNIVERSAL-PREMIERE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/273/17592273-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16288">
+    
+    
+    <display-name>DE-PELICULA-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/619/9845619-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16298">
+    
+    
+    <display-name>GOLDEN-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/931/256931-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16423">
+    
+    
+    <display-name>GOLDEN-EDGE-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/826/9663826-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-19384">
+    
+    
+    <display-name>TNT-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/066/18682066-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-114648">
+    
+    
+    <display-name>SKY-STINGRAY-CONCERT-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/121/19011121-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-90653">
+    
+    
+    <display-name>AMC-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/139/16975139-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-144888">
+    
+    
+    <display-name>SKY-STINGRAY-CLASSICA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/561/18998561-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-29017">
+    
+    
+    <display-name>STUDIO-UNIVERSAL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/081/7020081-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-19246">
+    
+    
+    <display-name>TCM-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/937/256937-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-19737">
+    
+    
+    <display-name>GOLDEN-MULTIPLEX</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/939/256939-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16435">
+    
+    
+    <display-name>CINECANAL-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/229/8315229-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-34879">
+    
+    
+    <display-name>HBO-FAMILY-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/798/9939798-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-74450">
+    
+    
+    <display-name>HBO-SIGNATURE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/149/6723149-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-68140">
+    
+    
+    <display-name>HBO2-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/171/16975171-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16795">
+    
+    
+    <display-name>HBO-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/150/6723150-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-75537">
+    
+    
+    <display-name>HBO-PLUS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/173/16975173-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-68119">
+    
+    
+    <display-name>HBO-MUNDI-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/736/9068736-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-92951">
+    
+    
+    <display-name>HBO-POP-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/175/16975175-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80199">
+    
+    
+    <display-name>HBO-XTREME-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/741/9068741-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80804">
+    
+    
+    <display-name>GOLDEN-PREMIER-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/280/17592280-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-80805">
+    
+    
+    <display-name>GOLDEN-PREMIER--2HR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/275/18459275-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-110045">
+    
+    
+    <display-name>CLAN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/074/8896074-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-111412">
+    
+    
+    <display-name>A3-CINE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/136/16975136-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-58646">
+    
+    
+    <display-name>CNN-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/060/257060-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-60179">
+    
+    
+    <display-name>FOX-NEWS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/061/257061-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-20296">
+    
+    
+    <display-name>AL-JAZEERA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/618/7365618-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-90898">
+    
+    
+    <display-name>ATRES-SERIES-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/039/9312039-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16800">
+    
+    
+    <display-name>ANTENA-3-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/278/17592278-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-106724">
+    
+    
+    <display-name>STAR-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/075/8896075-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-30259">
+    
+    
+    <display-name>E-Entertainment-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/841/256841-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-45910">
+    
+    
+    <display-name>GOURMET-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/332/14327332-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123456">
+    
+    
+    <display-name>FILM-AND-ARTS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/078/7020078-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-123457">
+    
+    
+    <display-name>EUROPA-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/492/7022492-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-75785">
+    
+    
+    <display-name>RAI-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/029/16780029-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16422">
+    
+    
+    <display-name>TV5-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/030/16780030-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-17672">
+    
+    
+    <display-name>TV-GALICIA-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/876/256876-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-105781">
+    
+    
+    <display-name>FRANCE-24-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/002/15621002-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-120691">
+    
+    
+    <display-name>DW-ENGLISH-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/192/15116192-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-115055">
+    
+    
+    <display-name>ESNE-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/079/7020079-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-20286">
+    
+    
+    <display-name>ENLACE-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/920/6768920-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16350">
+    
+    
+    <display-name>EWTN-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/913/256913-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-12034">
+    
+    
+    <display-name>MARIAVISION-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/014/7766014-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-27773">
+    
+    
+    <display-name>CNN-EN-ESPANOL-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/978/256978-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-15192">
+    
+    
+    <display-name>CNNI-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/979/256979-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-10146">
+    
+    
+    <display-name>CNN-DOMESTICO-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/803/8680803-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-100482">
+    
+    
+    <display-name>HLN-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/690/7996690-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-16374">
+    
+    
+    <display-name>FOX-NEWS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/981/256981-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-89542">
+    
+    
+    <display-name>BBC-NEWS-HD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/159/13824159-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-20742">
+    
+    
+    <display-name>24-HRS-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/983/256983-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+  
+  <channel id="IZZI-40704">
+    
+    
+    <display-name>EURONEWS-SD</display-name>
+    
+    
+    <icon src="https://www.izzigo.tv/images/repository/437/7152437-LOGO-m.png"/>
+    
+  
+  </channel>
+  
+
+  <channel id="DISH-969">
+    
+    
+    <display-name>Azteca Uno</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-724">
+    
+    
+    <display-name>Imagen TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-783">
+    
+    
+    <display-name>Multimedios</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-968">
+    
+    
+    <display-name>Azteca 7</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1444">
+    
+    
+    <display-name>TV UNAM</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1447">
+    
+    
+    <display-name>Mexiquense TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-967">
+    
+    
+    <display-name>ADN 40</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1442">
+    
+    
+    <display-name>Canal del Congreso</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-222">
+    
+    
+    <display-name>MVS TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-214">
+    
+    
+    <display-name>Milenio</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-738">
+    
+    
+    <display-name>Teleformula</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1445">
+    
+    
+    <display-name>Excelsior TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1446">
+    
+    
+    <display-name>Justicia TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1062">
+    
+    
+    <display-name>Canal 9</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1225">
+    
+    
+    <display-name>Canal 28</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1281">
+    
+    
+    <display-name>Canal 8</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-604">
+    
+    
+    <display-name>Star Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-612">
+    
+    
+    <display-name>Universal TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-613">
+    
+    
+    <display-name>Sony Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-622">
+    
+    
+    <display-name>Warner</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-561">
+    
+    
+    <display-name>AMC</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-647">
+    
+    
+    <display-name>AMC Series</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-813">
+    
+    
+    <display-name>AXN</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-577">
+    
+    
+    <display-name>FX</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-602">
+    
+    
+    <display-name>Space</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-611">
+    
+    
+    <display-name>USA Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-815">
+    
+    
+    <display-name>Adult Swim</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-607">
+    
+    
+    <display-name>Lifetime</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-812">
+    
+    
+    <display-name>A&amp;E</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-603">
+    
+    
+    <display-name>TNT Series</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-742">
+    
+    
+    <display-name>Atreseries</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-964">
+    
+    
+    <display-name>Star TVE</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-212">
+    
+    
+    <display-name>Azteca Corazon</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-886">
+    
+    
+    <display-name>Telemundo</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-606">
+    
+    
+    <display-name>TNT Novelas</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-841">
+    
+    
+    <display-name>Pasiones</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-737">
+    
+    
+    <display-name>Kanal D Drama</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1121">
+    
+    
+    <display-name>Vive Kanal D</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-735">
+    
+    
+    <display-name>Ve Plus</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-736">
+    
+    
+    <display-name>Novelisima</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-601">
+    
+    
+    <display-name>TNT</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-213">
+    
+    
+    <display-name>MC</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1383">
+    
+    
+    <display-name>Canela Narcodrama</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1481">
+    
+    
+    <display-name>A+</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-565">
+    
+    
+    <display-name>Cinemax</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-216">
+    
+    
+    <display-name>Multipremier</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-564">
+    
+    
+    <display-name>Cinecanal</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-605">
+    
+    
+    <display-name>Studio Universal</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-885">
+    
+    
+    <display-name>Claro Cinema</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-741">
+    
+    
+    <display-name>A3 Cine</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-209">
+    
+    
+    <display-name>Cine Latino</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1521">
+    
+    
+    <display-name>Pelimex</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1381">
+    
+    
+    <display-name>Canela Hollywood</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-945">
+    
+    
+    <display-name>Azteca Cinema</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1382">
+    
+    
+    <display-name>Canela Clasicos</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1181">
+    
+    
+    <display-name>Romance</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-582">
+    
+    
+    <display-name>Film&amp;Arts</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-805">
+    
+    
+    <display-name>FilmBox</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1021">
+    
+    
+    <display-name>Cindie Lite</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-261">
+    
+    
+    <display-name>MVS Cinema</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1621">
+    
+    
+    <display-name>Sony Movies</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-490">
+    
+    
+    <display-name>HBO</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-489">
+    
+    
+    <display-name>HBO 2</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-488">
+    
+    
+    <display-name>HBO Family</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-487">
+    
+    
+    <display-name>HBO Plus</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-486">
+    
+    
+    <display-name>HBO Signature</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-485">
+    
+    
+    <display-name>HBO Mundi</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-484">
+    
+    
+    <display-name>HBO Pop</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-482">
+    
+    
+    <display-name>HBO Xtreme</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-701">
+    
+    
+    <display-name>Universal Premiere</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-702">
+    
+    
+    <display-name>Universal Cinema</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-705">
+    
+    
+    <display-name>Universal Comedy</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-703">
+    
+    
+    <display-name>Universal Crime</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-704">
+    
+    
+    <display-name>Universal Reality</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-581">
+    
+    
+    <display-name>ESPN</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-573">
+    
+    
+    <display-name>ESPN 2</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-574">
+    
+    
+    <display-name>ESPN 3</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-575">
+    
+    
+    <display-name>ESPN 4</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-769">
+    
+    
+    <display-name>FOX Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-770">
+    
+    
+    <display-name>FOX Sports 2</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-771">
+    
+    
+    <display-name>FOX Sports 3</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-772">
+    
+    
+    <display-name>FOX Sports Premium</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-747">
+    
+    
+    <display-name>Claro Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-765">
+    
+    
+    <display-name>Hi Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-782">
+    
+    
+    <display-name>TVC Deportes</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-729">
+    
+    
+    <display-name>AyM Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-748">
+    
+    
+    <display-name>TyC Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1401">
+    
+    
+    <display-name>Canela Deportes</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1441">
+    
+    
+    <display-name>NFL Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-983">
+    
+    
+    <display-name>NBA TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-725">
+    
+    
+    <display-name>Golf Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-767">
+    
+    
+    <display-name>Fast&amp;FunBox</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-743">
+    
+    
+    <display-name>PX Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-721">
+    
+    
+    <display-name>Outdoor Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-734">
+    
+    
+    <display-name>World Fishing</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-764">
+    
+    
+    <display-name>FUEL TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-806">
+    
+    
+    <display-name>Moto ADV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-814">
+    
+    
+    <display-name>Antena Motor</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-768">
+    
+    
+    <display-name>FightBox</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1081">
+    
+    
+    <display-name>DAZN Combat</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-804">
+    
+    
+    <display-name>Ginx TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-746">
+    
+    
+    <display-name>Gametoon</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-744">
+    
+    
+    <display-name>Trace Sports</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-981">
+    
+    
+    <display-name>Azteca Deportes</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-568">
+    
+    
+    <display-name>Discovery H&amp;H</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-727">
+    
+    
+    <display-name>Food Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-731">
+    
+    
+    <display-name>Discovery World</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-728">
+    
+    
+    <display-name>HGTV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-608">
+    
+    
+    <display-name>TLC</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-569">
+    
+    
+    <display-name>ID</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-943">
+    
+    
+    <display-name>Azteca Clic</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-609">
+    
+    
+    <display-name>El Gourmet</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-763">
+    
+    
+    <display-name>FashionBox</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-385">
+    
+    
+    <display-name>HOLA TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-580">
+    
+    
+    <display-name>E!</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-808">
+    
+    
+    <display-name>Latin Angels</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-807">
+    
+    
+    <display-name>Show Business</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-567">
+    
+    
+    <display-name>Discovery</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-726">
+    
+    
+    <display-name>Discovery Science</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-722">
+    
+    
+    <display-name>Discovery Theater</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-562">
+    
+    
+    <display-name>Animal Planet</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-646">
+    
+    
+    <display-name>Nat Geo</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1462">
+    
+    
+    <display-name>Aprende+</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-578">
+    
+    
+    <display-name>History</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-811">
+    
+    
+    <display-name>History 2</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-803">
+    
+    
+    <display-name>WOBI</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-801">
+    
+    
+    <display-name>Curiosity Stream</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-384">
+    
+    
+    <display-name>Classic Arts</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-570">
+    
+    
+    <display-name>Discovery Turbo</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-730">
+    
+    
+    <display-name>Discovery Kids</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-571">
+    
+    
+    <display-name>Disney Channel</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-579">
+    
+    
+    <display-name>Disney Jr</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-982">
+    
+    
+    <display-name>Dreamworks</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-541">
+    
+    
+    <display-name>Nickelodeon</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-563">
+    
+    
+    <display-name>Cartoon Network</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-809">
+    
+    
+    <display-name>Fix&amp;Foxi</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-965">
+    
+    
+    <display-name>Clan TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-542">
+    
+    
+    <display-name>Nick Jr</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-823">
+    
+    
+    <display-name>Cartoonito</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-504">
+    
+    
+    <display-name>BabyFirst</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-614">
+    
+    
+    <display-name>Baby TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1201">
+    
+    
+    <display-name>Once Niños</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-706">
+    
+    
+    <display-name>Anime One</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-208">
+    
+    
+    <display-name>Comedy Central</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-215">
+    
+    
+    <display-name>MTV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-211">
+    
+    
+    <display-name>EXA TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1448">
+    
+    
+    <display-name>La Mejor</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-781">
+    
+    
+    <display-name>Video Rola</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-723">
+    
+    
+    <display-name>HTV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1601">
+    
+    
+    <display-name>Teleritmo</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1084">
+    
+    
+    <display-name>Trace Latina</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1083">
+    
+    
+    <display-name>Trace Urban</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1001">
+    
+    
+    <display-name>MVS FM</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1002">
+    
+    
+    <display-name>EXA FM</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1449">
+    
+    
+    <display-name>Nick Music</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-206">
+    
+    
+    <display-name>MTV Hits</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-566">
+    
+    
+    <display-name>CNN Español</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-842">
+    
+    
+    <display-name>CNN Intl</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-745">
+    
+    
+    <display-name>BBC World</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-970">
+    
+    
+    <display-name>Canal 24H</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-642">
+    
+    
+    <display-name>France 24 FR</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-645">
+    
+    
+    <display-name>France 24 ES</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-641">
+    
+    
+    <display-name>France 24 EN</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-762">
+    
+    
+    <display-name>Euronews</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1443">
+    
+    
+    <display-name>CGTN Español</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-881">
+    
+    
+    <display-name>Bloomberg</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-882">
+    
+    
+    <display-name>Azteca Internacional</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-383">
+    
+    
+    <display-name>Antena 3</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-963">
+    
+    
+    <display-name>TVE</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-610">
+    
+    
+    <display-name>Europa Europa</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-766">
+    
+    
+    <display-name>TV5 Monde</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-761">
+    
+    
+    <display-name>Caracol Intl</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-309">
+    
+    
+    <display-name>Arirang</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-301">
+    
+    
+    <display-name>RT Español</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-306">
+    
+    
+    <display-name>Mariavision</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-307">
+    
+    
+    <display-name>Maria Italia</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-308">
+    
+    
+    <display-name>Jesus Christ Net</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1451">
+    
+    
+    <display-name>ESNE</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1101">
+    
+    
+    <display-name>Daystar</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1141">
+    
+    
+    <display-name>EWTN</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1361">
+    
+    
+    <display-name>Enlace</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1223">
+    
+    
+    <display-name>TV Mas</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1341">
+    
+    
+    <display-name>Canal 16</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1221">
+    
+    
+    <display-name>TV BUAP</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1161">
+    
+    
+    <display-name>TV Cuatro</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1162">
+    
+    
+    <display-name>Canal 10</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1541">
+    
+    
+    <display-name>SMRTV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1301">
+    
+    
+    <display-name>Canal 15</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1222">
+    
+    
+    <display-name>VA+</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1224">
+    
+    
+    <display-name>Nayarit TV</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1321">
+    
+    
+    <display-name>Canal 4.1</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1421">
+    
+    
+    <display-name>Canal 12</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-1501">
+    
+    
+    <display-name>SQCS</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-883">
+    
+    
+    <display-name>Playboy</display-name>
+    
+  
+  </channel>
+  
+  
+  <channel id="DISH-884">
+    
+    
+    <display-name>Sexy Hot</display-name>
+    
+  
+  </channel>
+  
+
+</tv>
